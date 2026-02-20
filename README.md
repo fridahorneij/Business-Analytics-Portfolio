@@ -1,7 +1,7 @@
 # Business-Analytics-Portfolio
 SQL, Excel, Python, and Power BI projects for Business Analytics
 ## About Me
-Business Analytics student with experience in SQL, Excel, and Power BI.
+Business Analytics student with experience in SQL, Python, Excel, and Power BI.
 Interested in data-driven decision making and analytics roles.
 
 ## Tools
