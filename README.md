@@ -11,7 +11,6 @@ Interested in data-driven decision making and analytics roles.
 -Excel & Power BI
 
 ## Projects
-## Projects
 
 Automated Business Insight Pipeline (AI + SQL)
 * **Objective**: Automate the transition from raw unstructured data to actionable business insights using the **Gemini 1.5 Flash API**.
