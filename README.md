@@ -18,10 +18,6 @@ Automated Business Insight Pipeline (AI + SQL)
 * **Problem Solving**: Successfully engineered a **throttling mechanism** and manual update bypass to manage API rate limits (429 errors), ensuring 100% data integrity during automation.
 * **Impact**: Identified critical trends, including time-on-market price sensitivity in Miami and conversion friction points in digital marketing funnels.
 
-Sales Performance Analysis
-* Cleaned and analyzed sales data using SQL.
-* Built Power BI dashboard to visualize KPIs.
-* Identified revenue trends and top-performing products.
 ### Sales Performance Analysis
 - Cleaned and analyzed sales data using SQL
 - Built Power BI dashboard to visualize KPIs
